@@ -17,9 +17,9 @@
 }
 
 body {
-    background-color: #2e2e2e;
+    background-color: #616161;
     font-family: Pass;
-    color: #333;
+    color: black;
 }
 
 * {
@@ -182,7 +182,7 @@ nav ul li a:hover {
 }
 
 .news-card {
-    background-color: #616161;
+    background-color: #2e2e2e;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
